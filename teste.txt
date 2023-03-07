@@ -1,0 +1,24 @@
+DEF printHello(word)
+    VAR word = word
+    PRINT(word)
+END
+printHello("simples assim")
+
+PRINT("Funcionalidade FOR")
+FOR i = 0 TO 20 + 1  THEN
+    PRINT(i)
+END
+
+PRINT("Funcionalidade WHILE")
+VAR i = 5
+WHILE i != 0  THEN
+    VAR i = i - 1
+    PRINT(i)
+END
+DEF soma(a, b)
+    VAR result = a + b
+    RETURN result
+END 
+
+PRINT(soma(1,3))
+d
