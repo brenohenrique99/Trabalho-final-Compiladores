@@ -11,15 +11,25 @@ Na linguagem miniLang podemos contar com algumas funcionalidades como:
 **Verificação de tipos:** Podemos ter a verificação de tipos (Number, String).
 
 **Operações binárias:**:Operações com soma, subtração, divisão, multiplicação.
+
 **Biblioteca para erros:** Uso de uma biblioteca que foi construída para o apresentar quais caracteres deram erro.
+
 **Laço de repetição FOR:** Uso do laço de repetição FOR.
+
 **Laço de repetição WHILE:** Uso do laço de repetição WHILE.
+
 **Uso de funções:** Funções podem ser declaradas.
+
 **IF, ELIF, ELSE:** Uso de condicionais IF, ELIF, ELSE.
+
 **Comentários:** Uso de comentários através do operador **#**.
+
 **Operadores de comparação:** Uso de operadores de comparação **<, >, <=, !=, >=, ==** .
+
 **Operadores lógicos:** Uso de operadores lógicos **AND OR NOT** 
+
 **Funções de retorno:**  função que retorna o resultado da função (**RETURN**)
+
 
 ## Como utilizar o interpretador 
 
