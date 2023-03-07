@@ -7,7 +7,9 @@ O projeto consiste em um interpretador de uma linguagem de programação chamda 
 # Funcionalidades disponíveis 
 
 Na linguagem miniLang podemos contar com algumas funcionalidades como:
+
 **Verificação de tipos:** Podemos ter a verificação de tipos (Number, String).
+
 **Operações binárias:**:Operações com soma, subtração, divisão, multiplicação.
 **Biblioteca para erros:** Uso de uma biblioteca que foi construída para o apresentar quais caracteres deram erro.
 **Laço de repetição FOR:** Uso do laço de repetição FOR.
